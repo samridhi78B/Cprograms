@@ -7,7 +7,7 @@ int main()
   for(i = 1; i <= n; i++){
       ch = 'A';
        for(ch = 'A'; ch < 'A' + i; ch++){
-           if( i % 2 == 0){
+           if( i % 2 != 0){
         printf("%d ", ch-'A'+1);
            }
         else {
