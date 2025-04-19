@@ -24,6 +24,6 @@ int main(){
           } 
     } 
 
-    printf("Max rowis: %d\nMax sumis: %d", maxRow, maxSum);
+    printf("Max row is: %d\nMax sum is: %d", maxRow, maxSum);
    return 0;
 }
