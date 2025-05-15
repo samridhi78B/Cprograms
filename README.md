@@ -46,20 +46,20 @@ This repository helps me:
 
 ✅ Master C programming fundamentals
 
-⏳ Implement common data structures in C
+> ⏳ Implement common data structures in C
 
-⏳ Solve 100+ coding problems
+> ⏳ Solve 100+ coding problems
 
-⏳ Build mini projects in C
+> ⏳ Build mini projects in C
 
 
-📬 Contact
-If you have suggestions or want to collaborate:
+📬 Contact <br>
+If you have suggestions or want to collaborate: <br>
 
-🐙GitHub: https://github.com/samridhi78B
+🐙GitHub: https://github.com/samridhi78B <br>
 💼Linkdein: https://www.linkedin.com/in/samridhi-gumber-929b36319/
 
-⭐ Support
+⭐ Support 
 If you find this repository helpful, consider giving it a ⭐!<br>
 Your support keeps me motivated to learn and share more. 😊
   
