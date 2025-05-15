@@ -10,7 +10,7 @@ Topics Covered:
 - 🔤 Basic Input/ Output
 - 🔁 Loops & Conditional statements
 - 🗃️Decision Making
-- Operator Handling
+- ➕ Operator Handling
 - 🧮 Functions
 - 📊 Arrays
 - ⚙️ Strings
